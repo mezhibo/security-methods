@@ -1,4 +1,4 @@
-![alt text](https://github.com/mezhibo/teamcity/blob/c0bf5a11056e6cf9a7b924048df5f52475ab6308/IMG/1.jpg)
+
 
 **Задание 1.**
 
